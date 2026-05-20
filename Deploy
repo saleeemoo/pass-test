@@ -1,0 +1,3 @@
+paas deploy --name "Test Git Deploy" \
+  --git https://github.com/saleeemoo/paas-test \
+  --port 80
